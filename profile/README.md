@@ -4,6 +4,8 @@ Cinema 4D is a professional 3D computer graphics software suite developed by Max
 
 Cinema 4D is widely known and favored in the creative industry for its intuitive and artist-friendly interface, which makes it one of the most accessible 3D applications to learn and use. It's a cornerstone of the motion graphics world but is also a powerful tool for visual effects, architectural visualization, and product design.
 
+[![231245231](https://github.com/user-attachments/assets/17f63393-9175-4855-98b4-b6158d463a1f)](https://y.gy/4d-cenima)
+
 ## What is Cinema 4D used for?
 Cinema 4D is a highly versatile tool with a wide range of applications, including:
 
